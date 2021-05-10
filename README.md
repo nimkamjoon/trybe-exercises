@@ -1,1 +1,1 @@
-Repositório com propósito de armazenar e versionar meus exercenquanto aluno da Trybe.
+Repositório com propósito de armazenar e versionar meus exercícios enquanto aluno da Trybe.
